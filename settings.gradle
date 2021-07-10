@@ -1,0 +1,4 @@
+rootProject.name='AutoTrackAppClick8'
+include ':app'
+include ':sdk'
+include ':plugin'
